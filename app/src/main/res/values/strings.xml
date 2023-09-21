@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hagl</string>
+    <string name="haglcode">ENTER HAGL CODE</string>
+    <string name="search">Search...</string>
+    <string name="action">Action      </string>
+    <string name="discount">Checkout</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="internet_connection">Please check internet connection</string>
+    <string name="thresold_price">Are you sure you want to update "Floor Price" ?</string>
+    <string name="update_hagl">Are you sure you want to update Hagl" ?</string>
+    <string name="deleteThreshold_Item">Are you sure you want to remove this Item from the Hagl Eligible Items?</string>
+
+    <string-array name="spinner_array">
+        <item>ACTION</item>
+        <item>UPDATE FLOOR PRICE</item>
+        <item>REMOVE ITEM</item>
+    </string-array>
+</resources>
